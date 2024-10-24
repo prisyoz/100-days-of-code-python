@@ -1,5 +1,6 @@
 Tip Calculator
 Instructions
+
 If the bill was $150.00, split between 5 people, with 12% tip.
 
 Each person should pay (150.00 / 5) * 1.12 = 33.6
@@ -17,8 +18,10 @@ How much tip would you like to give? 10, 12, or 15? 12
 How many people to split the bill? 7
 Example Output
 Each person should pay: $19.93
+
 Hint
 How to round a number to 2 decimal places in Python
 How to limit a float to two decimal places in Python
+
 Solution
 https://replit.com/@appbrewery/tip-calculator-end
