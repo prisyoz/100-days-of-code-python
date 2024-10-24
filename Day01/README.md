@@ -7,6 +7,3 @@
 - Python Variables
 - Variable Naming
 ## Band Name Generator
-
-
-https://replit.com/@phillipra/band-name-generator-start
