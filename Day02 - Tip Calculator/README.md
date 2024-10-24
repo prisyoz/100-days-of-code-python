@@ -12,12 +12,17 @@ Thus everyone's share of the total bill is $30.00 plus a $3.60 tip.
 Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
 
 Example Input
+
 Welcome to the tip calculator!
+
 What was the total bill? $124.56
+
 How much tip would you like to give? 10, 12, or 15? 12
+
 How many people to split the bill? 7
 
 Example Output
+
 Each person should pay: $19.93
 
 Hint
