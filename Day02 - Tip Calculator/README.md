@@ -26,7 +26,9 @@ Example Output
 Each person should pay: $19.93
 
 Hint
+
 How to round a number to 2 decimal places in Python
+
 How to limit a float to two decimal places in Python
 
 Solution
