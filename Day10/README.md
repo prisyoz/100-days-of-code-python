@@ -1,4 +1,4 @@
-# Day10
-1) Functions with outputs
-2) Multiple return values
-3) Calculator Porject
+# Day 10 - Functions with Outputs
+## Concepts Practised
+- Functions with Outputs
+- Multiple return values
